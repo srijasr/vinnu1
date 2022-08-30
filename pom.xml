@@ -77,7 +77,7 @@
     <finalName>vinnu</finalName>
     <sourcedirectory>src/java<sourcedirectory>
     <outputdirectory>target/classes<outputdirectory>	    
-    <defaultGoal>install</defaultGoal>
+    
 
     <plugins>
       <plugin>
