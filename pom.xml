@@ -74,10 +74,7 @@
   </dependencies>
 
   <build>
-    <finalName>vinnu</finalName>
-    <sourcedirectory>src/java<sourcedirectory>
-    <outputdirectory>target/classes<outputdirectory>	    
-    
+    <defaultgoal>install</defaultgoal> 
 
     <plugins>
       <plugin>
