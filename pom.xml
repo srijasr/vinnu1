@@ -73,8 +73,7 @@
     </dependency>
   </dependencies>
 
-  <build>
-    <finalNama>vinnu</finalName>	  
+  <build>	  
     <defaultGoal>install</defaultGoal>
 
     <plugins>
